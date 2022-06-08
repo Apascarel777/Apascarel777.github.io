@@ -120,7 +120,7 @@ h1 {
 /* Header */
 
 #hero-image {
-	background-image: url("images/writing_banner.jpg");
+	background-image: url("/images/writing_banner.jpg");
 	height: 50%;
 	background-position: center;
 	background-repeat: no-repeat;
